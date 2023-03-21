@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kat</h1>
-<h3 align="center">A passionate full stack developer from London</h3>
+<h1>Hi 👋, I'm Kat</h1>
+<h3>A passionate full stack developer from London</h3>
 
 🔭 My most recent project is [Let's Go](https://github.com/kwynneellis/lets-go) (03/2023)
 
