@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kat</h1>
 <h3>A passionate full stack developer from London</h3>
 
-🔭 My most recent project is [Let's Go](https://github.com/kwynneellis/lets-go) (03/2023)
+🔭 Check out my latest project [Let's Go](https://github.com/kwynneellis/lets-go) (03/2023)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
